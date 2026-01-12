@@ -1,5 +1,5 @@
 {
   "rewrites": [
-    { "source": "/((?!assets|js|fonts|s|css|favicon).*)", "destination": "/index.htm" }
+    { "source": "/((?!assets|js|fonts|s|css2|favicon|index\\.htm).*)", "destination": "/index.htm" }
   ]
 }
