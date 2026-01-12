@@ -1,0 +1,42 @@
+﻿@font-face {
+  font-family: 'DM Mono';
+  font-style: italic;
+  font-weight: 300;
+  font-display: swap;
+  src: url(s/dmmono/v16/aFTT7PB1QTsUX8KYth-orYataA.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'DM Mono';
+  font-style: italic;
+  font-weight: 400;
+  font-display: swap;
+  src: url(s/dmmono/v16/aFTW7PB1QTsUX8KYth-QAQ.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'DM Mono';
+  font-style: italic;
+  font-weight: 500;
+  font-display: swap;
+  src: url(s/dmmono/v16/aFTT7PB1QTsUX8KYth-o9YetaA.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'DM Mono';
+  font-style: normal;
+  font-weight: 300;
+  font-display: swap;
+  src: url(s/dmmono/v16/aFTR7PB1QTsUX8KYvrGyIYQ.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'DM Mono';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(s/dmmono/v16/aFTU7PB1QTsUX8KYhh0.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'DM Mono';
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url(s/dmmono/v16/aFTR7PB1QTsUX8KYvumzIYQ.ttf) format('truetype');
+}

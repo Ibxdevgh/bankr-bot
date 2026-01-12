@@ -1,0 +1,132 @@
+Uri: https://bankr.bot/
+File Name: C:\Downloaded Web Sites\bankr.bot\index.htm
+Content Type: text/html
+
+Uri: https://bankr.bot/assets/farcaster-BI7iMLeG.js
+File Name: C:\Downloaded Web Sites\bankr.bot\assets\farcaster-BI7iMLeG.js
+Content Type: application/javascript
+
+Uri: https://bankr.bot/assets/index-CFNFgFJX.css
+File Name: C:\Downloaded Web Sites\bankr.bot\assets\index-CFNFgFJX.css
+Content Type: text/css
+
+Uri: https://bankr.bot/assets/index-D4_HOGC3.js
+File Name: C:\Downloaded Web Sites\bankr.bot\assets\index-D4_HOGC3.js
+Content Type: application/javascript
+
+Uri: https://bankr.bot/assets/privy-De74JFFV.js
+File Name: C:\Downloaded Web Sites\bankr.bot\assets\privy-De74JFFV.js
+Content Type: application/javascript
+
+Uri: https://bankr.bot/assets/react-CvrAlPOO.js
+File Name: C:\Downloaded Web Sites\bankr.bot\assets\react-CvrAlPOO.js
+Content Type: application/javascript
+
+Uri: https://bankr.bot/assets/reown-Cxi39rOn.js
+File Name: C:\Downloaded Web Sites\bankr.bot\assets\reown-Cxi39rOn.js
+Content Type: application/javascript
+
+Uri: https://bankr.bot/assets/solana-CNYOuMqB.js
+File Name: C:\Downloaded Web Sites\bankr.bot\assets\solana-CNYOuMqB.js
+Content Type: application/javascript
+
+Uri: https://bankr.bot/assets/wagmi-DukDWchA.js
+File Name: C:\Downloaded Web Sites\bankr.bot\assets\wagmi-DukDWchA.js
+Content Type: application/javascript
+
+Uri: https://bankr.bot/favicon.svg
+File Name: C:\Downloaded Web Sites\bankr.bot\favicon.svg
+Content Type: image/svg+xml
+
+Uri: https://bankr.bot/fonts/Geist-Regular.ttf
+File Name: C:\Downloaded Web Sites\bankr.bot\fonts\Geist-Regular.ttf
+Content Type: font/ttf
+
+Uri: https://bankr.bot/fonts/GeistMono-Regular.ttf
+File Name: C:\Downloaded Web Sites\bankr.bot\fonts\GeistMono-Regular.ttf
+Content Type: font/ttf
+
+Uri: https://bankr.bot/fonts/InterTight-Black.ttf
+File Name: C:\Downloaded Web Sites\bankr.bot\fonts\InterTight-Black.ttf
+Content Type: font/ttf
+
+Uri: https://bankr.bot/fonts/InterTight-Bold.ttf
+File Name: C:\Downloaded Web Sites\bankr.bot\fonts\InterTight-Bold.ttf
+Content Type: font/ttf
+
+Uri: https://bankr.bot/fonts/InterTight-Regular.ttf
+File Name: C:\Downloaded Web Sites\bankr.bot\fonts\InterTight-Regular.ttf
+Content Type: font/ttf
+
+Uri: https://bankr.bot/fonts/InterTight-SemiBold.ttf
+File Name: C:\Downloaded Web Sites\bankr.bot\fonts\InterTight-SemiBold.ttf
+Content Type: font/ttf
+
+Uri: https://bankr.bot/fonts/Inter_24pt-Regular.ttf
+File Name: C:\Downloaded Web Sites\bankr.bot\fonts\Inter_24pt-Regular.ttf
+Content Type: font/ttf
+
+Uri: https://bankr.bot/fonts/Inter_28pt-Bold.ttf
+File Name: C:\Downloaded Web Sites\bankr.bot\fonts\Inter_28pt-Bold.ttf.html
+Content Type: text/html
+
+Uri: https://bankr.bot/fonts/OTNeueMontreal-BookSqueezed.woff2
+File Name: C:\Downloaded Web Sites\bankr.bot\fonts\OTNeueMontreal-BookSqueezed.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.googleapis.com/css2?family=DM+Mono:ital,wght@0,300;0,400;0,500;1,300;1,400;1,500&display=swap
+File Name: C:\Downloaded Web Sites\bankr.bot\css2
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css2?family=Inter+Tight:wght@400;700&display=swap
+File Name: C:\Downloaded Web Sites\bankr.bot\css2-2
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css2?family=Inter:wght@400;700&display=swap
+File Name: C:\Downloaded Web Sites\bankr.bot\css2-1
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/dmmono/v16/aFTR7PB1QTsUX8KYvrGyIYQ.ttf
+File Name: C:\Downloaded Web Sites\bankr.bot\s\dmmono\v16\aFTR7PB1QTsUX8KYvrGyIYQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmmono/v16/aFTR7PB1QTsUX8KYvumzIYQ.ttf
+File Name: C:\Downloaded Web Sites\bankr.bot\s\dmmono\v16\aFTR7PB1QTsUX8KYvumzIYQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmmono/v16/aFTT7PB1QTsUX8KYth-o9YetaA.ttf
+File Name: C:\Downloaded Web Sites\bankr.bot\s\dmmono\v16\aFTT7PB1QTsUX8KYth-o9YetaA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmmono/v16/aFTT7PB1QTsUX8KYth-orYataA.ttf
+File Name: C:\Downloaded Web Sites\bankr.bot\s\dmmono\v16\aFTT7PB1QTsUX8KYth-orYataA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmmono/v16/aFTU7PB1QTsUX8KYhh0.ttf
+File Name: C:\Downloaded Web Sites\bankr.bot\s\dmmono\v16\aFTU7PB1QTsUX8KYhh0.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmmono/v16/aFTW7PB1QTsUX8KYth-QAQ.ttf
+File Name: C:\Downloaded Web Sites\bankr.bot\s\dmmono\v16\aFTW7PB1QTsUX8KYth-QAQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuFuYMZg.ttf
+File Name: C:\Downloaded Web Sites\bankr.bot\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuFuYMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuLyfMZg.ttf
+File Name: C:\Downloaded Web Sites\bankr.bot\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuLyfMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/intertight/v9/NGSnv5HMAFg6IuGlBNMjxJEL2VmU3NS7Z2mj6AiqXA.ttf
+File Name: C:\Downloaded Web Sites\bankr.bot\s\intertight\v9\NGSnv5HMAFg6IuGlBNMjxJEL2VmU3NS7Z2mj6AiqXA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/intertight/v9/NGSnv5HMAFg6IuGlBNMjxJEL2VmU3NS7Z2mjDw-qXA.ttf
+File Name: C:\Downloaded Web Sites\bankr.bot\s\intertight\v9\NGSnv5HMAFg6IuGlBNMjxJEL2VmU3NS7Z2mjDw-qXA.ttf
+Content Type: font/ttf
+
+Uri: https://telegram.org/js/telegram-web-app.js
+File Name: C:\Downloaded Web Sites\bankr.bot\js\telegram-web-app.js
+Content Type: application/javascript
+
